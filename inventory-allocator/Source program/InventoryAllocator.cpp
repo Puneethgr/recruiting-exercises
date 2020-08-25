@@ -96,7 +96,6 @@ public:
 
 int main()
 {
-	int choice = 0;
 	string inventoryName, inventoryItems, itemName;
 	int itemQuantity;
 	int numberOfInventory, numberOfInventoryItems;
